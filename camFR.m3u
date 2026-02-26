@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="France;Livecams",Six-Fours / Provence Méditerranée (MJPEG public)
+https://s1.vision-environnement.com/live/player/axis/sixfours/sixfours.mjpg
+#EXTINF:-1 group-title="France;Livecams",La Seyne-sur-Mer (Provence Méditerranée / Vision Environnement)
+https://visionenvironnement.quanteec.com/contents/encodings/live/8492899d-6000-43da-746c-7561-6665-64-9936-af78f44cbffcd/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Hyères - Ayguade (Provence Méditerranée / Vision Environnement)
+https://visionenvironnement.quanteec.com/contents/encodings/live/44d5c057-1f25-4bae-746c-7561-6665-64-ab7d-10d392cb74cad/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Hyères - Port / Panorama (Provence Méditerranée / Vision Environnement)
+https://visionenvironnement.quanteec.com/contents/encodings/live/85e3c05a-4263-47cf-746c-7561-6665-64-8abb-879718849316d/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",La Madrague / Giens (Provence Méditerranée / Vision Environnement)
+https://visionenvironnement.quanteec.com/contents/encodings/live/b6928058-4e0d-4ce6-746c-7561-6665-64-99fa-9c99e51d6cfad/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Nice - Promenade des Anglais (Viewsurf / Quanteec)
+https://deliverys5.quanteec.com/contents/encodings/live/4c362a32-a803-482b-3338-3630-6d61-63-b2af-1318979a1b8fd/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Cros-de-Cagnes (Nice Côte d’Azur / Viewsurf / Quanteec)
+https://deliverys5.quanteec.com/contents/encodings/live/8c26eae2-6653-4f7d-3931-3730-6d61-63-a9d0-7259aeb98134d/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Nice - Promenade du Paillon (Viewsurf / Quanteec)
+https://deliverys5.quanteec.com/contents/encodings/live/44325ee8-0cde-4f0c-3737-3330-6d61-63-a448-371421fe696ad/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Saint-Tropez - Vieux Port (Viewsurf / Quanteec)
+https://deliverys5.quanteec.com/contents/encodings/live/343dd1e5-2309-4a87-3939-3630-6d61-63-a8bc-488bbead67dcd/master.m3u8
+#EXTINF:-1 group-title="France;Livecams",Saint-Tropez - Entrée du Port (Viewsurf / Quanteec)
+https://deliverys5.quanteec.com/contents/encodings/live/e26e3e6b-35df-4ea0-3030-3730-6d61-63-a3b0-06647dd6f430d/master.m3u8
